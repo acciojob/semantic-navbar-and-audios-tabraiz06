@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+nav{
+	ul{
+		display:flex;
+		gap:1rem;
+		li{
+			list-style-type: none;
+			a{
+				text-decoration:none;
+			}
+		}
+	}
+}
